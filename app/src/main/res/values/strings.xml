@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyLocation</string>
+    <string name="edit_message">Edit message:</string>
+    <string name="button_fusedLocationProvider">Google Location API</string>
+    <string name="button_sendLocationToMap">See location on map</string>
+    <string name="text_view_coordinates">Android Location API</string>
+    <string name="text_view_ALAPI_coordinates">Coordinates</string>
+    <string name="text_view_GLAPI_coordinates">Coordinates</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="text_view_GoogleApi_coordinates">Google Location API</string>
+</resources>
